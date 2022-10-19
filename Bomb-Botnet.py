@@ -37,7 +37,7 @@ ip = raw_input("IP Target : ")
 port = input("Port       : ")
 
 os.system("clear")
-print "\033[91mMission Start DDOS"
+print("\033[91mMission Start DDOS")
 print "\033[91m[                    ] 0% "
 time.sleep(5)
 print "\033[92m[=====               ] 25%"
